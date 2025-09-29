@@ -76,7 +76,7 @@ public class jFrameLogin extends javax.swing.JFrame {
         });
 
         jLabelArroba.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
-        jLabelArroba.setText("@3d_impressao.png");
+        jLabelArroba.setText("@custom3dforgessao.png");
         jLabelArroba.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 jLabelArrobaMouseClicked(evt);

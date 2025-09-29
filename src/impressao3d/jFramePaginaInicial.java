@@ -108,7 +108,7 @@ public class jFramePaginaInicial extends javax.swing.JFrame {
         jLabeluser.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
 
         jLabelArroba.setFont(new java.awt.Font("Segoe UI", 1, 24)); // NOI18N
-        jLabelArroba.setText("@3d_impressao.png");
+        jLabelArroba.setText("@custom3dforgessao.png");
         jLabelArroba.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 jLabelArrobaMouseClicked(evt);
